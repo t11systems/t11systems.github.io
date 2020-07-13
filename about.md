@@ -4,12 +4,10 @@ title: /about
 permalink: /about/
 ---
 
-# jekyll-theme-console
+# Prolegomena to Any Future Doxxing
 
-A jekyll theme with inspiration from linux consoles for hackers, developers and script kiddies.
-You can find the source code for this theme at [github.com/b2a3e8/jekyll-theme-console](https://github.com/b2a3e8/jekyll-theme-console).
+thesis_11 (t11) is my pseudonym, used not so much to hide my identity from others but from myself.
 
-## What is jekyll?
+t11.systems is an exercise in writing without neuroticism. 
 
-Jekyll is a simple, blog-aware, static site generator for personal, project, or organization sites. Written in Ruby by Tom Preston-Werner, GitHub's co-founder, it is distributed under an open source license.
-<br />Instead of using databases, Jekyll takes the content, renders Markdown or Textile and Liquid templates, and produces a complete, static website ready to be served by Apache HTTP Server, Nginx or another web server. Jekyll is the engine behind GitHub Pages, a GitHub feature that allows users to host websites based on their GitHub repositories for no additional cost.
+All work here should be considered unpolished and, as a rule, *incomplete*.

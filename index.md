@@ -19,6 +19,7 @@ permalink: /
     </div>
   </div>
 </marquee>
+<br>
   
 <!--bounce: <marquee direction="down" height="12" behavior="alternate">
   <marquee behavior="alternate">

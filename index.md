@@ -4,10 +4,10 @@ layout: home
 permalink: /
 ---
 <marquee direction="down" height="14" scrollamount="2">
-  <div class="toptobottom">t%*=+ ~\|`est fasdfas 11111 dfasd</div>
+  <div class="toptobottom">t%*=+ ~\|`est</div>
 </marquee>
 <marquee direction="down" height="14">
-  <div class="toptobottom">^$'/h[,.3- )</div><br>
+  <div class="toptobottom">^$'/h[,.3-)</div><br>
   <div class="toptobottom">(s|&&&+</div>
 </marquee>
 <!--bounce: <marquee direction="down" height="12" behavior="alternate">

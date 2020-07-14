@@ -4,8 +4,14 @@ layout: home
 permalink: /
 ---
 <marquee direction="down" height="14" scrollamount="2">
-  <div class="toptobottom">t%*=+aS98KSVzXioqJCcvdFssLmgtKShzfDMmJiYrJToiOiJ8YH5+IUAjJDUoXy0rcyk3NiopIjo/aS98KSVzXjExMTEkJy90WywuaC0pKHN8MyYmJislOiI6Inxgfn4hQCMkNShfLStzKTc2KikiOj9pL3MoJCMxJCcvdFssLmgtKShzfDMzNShfLStzZGZkZnMpNzYqKSI6P2kvfCklc141JCcvdFssLmgtKShzfDMmJiYrJToiOiJ8YH5+IUAjJDUoXy0rcyk3NiopIjo/aS98KSVzXnNzJCcvdFssLmgtKShzfDMmJiYrJToiOiJ8YH5+IUAjJDUoXy0rcyk3NiopIjo/aS98KSVzXjExMTEkJy90WywuaC0pKHN8M2Q1KF8jI3MpNzYqKSI6P2kvfCklc15zJCcvdFssLmgtKShzfDMmJiYrJToiOiJ8YH5+IUAjJDUoXy0rcyk3NiopIjo/aS98KSVzXmUkJy90WywuaC0pKHN8MyU1KF8tK3MpNzYqKSI6P2kvfCklc14qJSQnL3RbLC5oLSkoc3wzJTUoXy0rcyk3NiopIjo/aS98KSVzXjEkJy90 ~\|`est</div>
+  <div class="newspaper">
+    <div class="toptobottom">
+     t%*=+aS98KSVzXioqJCcvdFssLmgtKShzfDMmJiYrJToiOiJ8YH5+IUAjJDUoXy0rcyk3NiopIjo/aS98KSVzXjExMTEkJy90WywuaC0pKHN8MyYmJislOiI6Inxgfn4hQCMkNShfLStzKTc2KikiOj9pL3MoJCMxJCcvdFssLmgtKShzfDMzNShfLStzZGZkZnMpNzYqKSI6P2kvfCklc141JCcvdFssLmgtKShzfDMmJiYrJToiOiJ8YH5+IUAjJDUoXy0rcyk3NiopIjo/aS98KSVzXnNzJCcvdFssLmgtKShzfDMmJiYrJToiOiJ8YH5+IUAjJDUoXy0rcyk3NiopIjo/aS98KSVzXjExMTEkJy90WywuaC0pKHN8M2Q1KF8jI3MpNzYqKSI6P2kvfCklc15zJCcvdFssLmgtKShzfDMmJiYrJToiOiJ8YH5+IUAjJDUoXy0rcyk3NiopIjo/aS98KSVzXmUkJy90WywuaC0pKHN8MyU1KF8tK3MpNzYqKSI6P2kvfCklc14qJSQnL3RbLC5oLSkoc3wzJTUoXy0rcyk3NiopIjo/aS98KSVzXjEkJy90 ~\|`est
+              
+    </div>
+  </div>
 </marquee>
+  
 <marquee direction="down" height="14">
   <div class="newspaper">
     <div class="toptobottom">

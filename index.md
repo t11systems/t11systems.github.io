@@ -8,12 +8,11 @@ permalink: /
 </marquee>
 <marquee direction="down" height="14">
   <div class="toptobottom">^$'/h[,.3-</div>
-  <div class="toptobottom">)(s|&&&+</div>
 </marquee>
 <p>
-<marquee direction="down" height="14">
-  <div class="toptobottom">)(s|&&&+</div>
-</marquee>
+  <marquee direction="down" height="14">
+    <div class="toptobottom">)(s|&&&+</div>
+  </marquee>
 </p>
 <!--bounce: <marquee direction="down" height="12" behavior="alternate">
   <marquee behavior="alternate">

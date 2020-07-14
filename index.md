@@ -7,7 +7,7 @@ permalink: /
   <div class="toptobottom">t%*=+ ~\|`est</div>
 </marquee>
 
-<div class="newspaper">^$'/t[,.h-)(s|3&&&+%:":"|`~~!@#$5(_-+s)76*)":?i/|)%s</div>
+<div class="newspaper" "toptobottom">^$'/t[,.h-)(s|3&&&+%:":"|`~~!@#$5(_-+s)76*)":?i/|)%s</div>
   
 <!--bounce: <marquee direction="down" height="12" behavior="alternate">
   <marquee behavior="alternate">

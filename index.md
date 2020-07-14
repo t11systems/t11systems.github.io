@@ -6,11 +6,9 @@ permalink: /
 <marquee direction="down" height="14" scrollamount="2">
   <div class="toptobottom">t%*=+~\|`est</div>
 </marquee>
-<br>
 <marquee direction="down" height="14">
   <div class="toptobottom">^$'/d[,.3-</div>
 </marquee>
-<br>
 
 <!--bounce: <marquee direction="down" height="12" behavior="alternate">
   <marquee behavior="alternate">

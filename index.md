@@ -4,8 +4,8 @@ layout: home
 permalink: /
 ---
 
-<marquee direction="down" behavior="alternate">
+<marquee direction="down" height= "20" behavior="alternate">
   <marquee behavior="alternate">
-    O
+    *
   </marquee>
 </marquee>

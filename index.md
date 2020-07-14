@@ -7,7 +7,8 @@ permalink: /
   <div class="toptobottom">t%*=+ ~\|`est fasdfasdfasd</div>
 </marquee>
 <marquee direction="down" height="14">
-  <div class="toptobottom">^$'/h[,.3- )(s|&&&+</div>
+  <div class="toptobottom">^$'/h[,.3- )</div><br>
+  <div class="toptobottom">(s|&&&+</div>
 </marquee>
 <!--bounce: <marquee direction="down" height="12" behavior="alternate">
   <marquee behavior="alternate">

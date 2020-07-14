@@ -6,8 +6,9 @@ permalink: /
 <marquee direction="down" height="14" scrollamount="2">
   <div class="toptobottom">test</div>
 </marquee>
+<br>
 <marquee direction="down" height="14">
-  <div class="toptobottom">^$'/</div>
+  <div class="toptobottom">^$'/d[{{,<.3-</div>
 </marquee>
 <br>
 

@@ -4,10 +4,10 @@
 
 header_pages:
   - index.md
+  - about.md
   - art.md
   - translations.md
-  - writings.md
-  - about.md
+  - writing.md
 
 #footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 

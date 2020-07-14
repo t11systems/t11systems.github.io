@@ -2,14 +2,14 @@
 <header>
   <div class="menu">
     <ul>
+      <marquee direction="down" height="12" width=40% behavior="alternate">
+        <marquee behavior="alternate">
+          o
+        </marquee>
+      </marquee>
       {%- for path in page_paths -%}
         {%- assign my_page = site.pages | where: "path", path | first -%}
         {%- if my_page.title -%}
-        <marquee direction="down" height="12" width=40% behavior="alternate">
-          <marquee behavior="alternate">
-          o
-          </marquee>
-        </marquee>
         <li><a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
         {%- endif -%}
       {%- endfor -%}

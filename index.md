@@ -8,7 +8,7 @@ permalink: /
 </marquee>
 <br>
 <marquee direction="down" height="14">
-  <div class="toptobottom">^$'/d[{{,<.3-</div>
+  <div class="toptobottom">^$'/d[,.3-</div>
 </marquee>
 <br>
 

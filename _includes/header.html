@@ -2,10 +2,8 @@
 <header>
   <div class="menu">
     <ul>
-      <marquee direction="up" height="15" width=5% behavior="scroll">
-        <marquee behavior="alternate">
-          t11
-        </marquee>
+      <marquee direction="up" height="15" width=5% scrollamount=20 behavior="scroll">
+        t11
       </marquee>
       {%- for path in page_paths -%}
         {%- assign my_page = site.pages | where: "path", path | first -%}

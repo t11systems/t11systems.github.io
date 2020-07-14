@@ -22,7 +22,7 @@ permalink: /
     </div>
   </div>
 </marquee>
-<br>
+<p>
   
 <!--bounce: <marquee direction="down" height="12" behavior="alternate">
   <marquee behavior="alternate">

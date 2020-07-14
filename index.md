@@ -4,10 +4,10 @@ layout: home
 permalink: /
 ---
 
-<marquee direction="down" height="15" direction="right" behavior="alternate">
+<marquee direction="down" direction="right" behavior="alternate">
   <marquee behavior="alternate">
-     _
-   _[_]_
-  (_____)
+     _<br>
+   _[_]_<br>
+  (_____)<br>
   </marquee>
 </marquee>

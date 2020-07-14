@@ -4,7 +4,7 @@ layout: home
 permalink: /
 ---
 <marquee direction="down" height="14" scrollamount="2">
-  <div class="toptobottom">test</div>
+  <div class="toptobottom">t%*=+~\|`est</div>
 </marquee>
 <br>
 <marquee direction="down" height="14">

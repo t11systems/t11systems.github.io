@@ -4,4 +4,4 @@ title: /translations
 permalink: /translations/
 ---
 
-# Translations1
+# Translations

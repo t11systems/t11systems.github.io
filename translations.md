@@ -1,7 +1,7 @@
 ---
 layout: page
 title: /translations
-permalink: /translations/
+permalink: /translationss/
 ---
 
 # Translations

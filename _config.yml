@@ -3,11 +3,11 @@
 #google_analytics: UA-NNNNNNNN-N
 
 header_pages:
-  - index.md
-  - about.md
-  - art.md
+  - headers/index.md
+  - headers/about.md
+  - headers/art.md
   - headers/translations.md
-  - writing.md
+  - headers/writing.md
 
 #footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 

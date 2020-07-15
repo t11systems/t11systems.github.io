@@ -6,7 +6,7 @@ header_pages:
   - index.md
   - about.md
   - art.md
-  - /headers/translations.md
+  - headers/translations.md
   - writing.md
 
 #footer: 'follow us on <a href="https://twitter.com/">twitter</a>'

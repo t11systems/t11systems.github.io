@@ -8,6 +8,6 @@ permalink: /about/
 &nbsp;
 thesis_11 is a pseudonym, used not so much to hide my identity from others but from myself.
 &nbsp;
-t11 is a blog, an exercise in self-expression without neuroticism.
+t11 is a blog, my exercise in self-expression without neuroticism.
 &nbsp;
-All work here should be considered unpolished and incomplete.
+All work here should be considered experimental and incomplete.

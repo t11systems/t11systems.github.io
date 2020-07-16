@@ -2,7 +2,7 @@
 layout: post
 title:  "Schizo-HTML 000"
 date:   0000-01-01 01:01:01
-tags: art
+categories: art
 ---
 
 <marquee direction="down" height="100" scrollamount="150" scrolldelay="0">

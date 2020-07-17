@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Translation of Jiří Černýs Von der natura naturans zum unvordenklichen Seyn"
+title:  "Translation of Jiri Cernys Von der natura naturans zum unvordenklichen Seyn"
 date:   2020-17-07 15:55:00 +0100
 categories: translations
 ---

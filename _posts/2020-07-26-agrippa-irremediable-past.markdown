@@ -5,9 +5,8 @@ date:   2020-07-26 20:07:00 +0100
 categories: art
 ---
 
-<img src="https://raw.githubusercontent.com/t11systems/t11systems.github.io/master/images/FD001_Flattened3.png">
-<br>
-<img src="https://raw.githubusercontent.com/t11systems/t11systems.github.io/master/images/FD001_Flattened4.png">
+<img src="https://raw.githubusercontent.com/t11systems/t11systems.github.io/master/images/FD001_Flattened3.png" style="width: 55vw; min-width: 330px;>
+<img src="https://raw.githubusercontent.com/t11systems/t11systems.github.io/master/images/FD001_Flattened4.png" style="width: 55vw; min-width: 330px;>
 # Agrippa - Irremediable Past
 Dungeon synth / Sountrack
 Forthcoming

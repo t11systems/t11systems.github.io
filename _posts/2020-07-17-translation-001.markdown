@@ -10,136 +10,731 @@ Jiří Černý
 
 -
 
-#From natura naturans to “unprethinkable being”
-#A line of materialism in Schelling?
+From *natura naturans* to "unprethinkable being"
+
+A line of materialism in Schelling?
 
 Jiří Černý
 
-Translated by thesis_11
+One of the most difficult problems in the history of materialistic and
+dialectical philosophy has always been to determine the overall
+character and meaning of Friedrich Wilhelm Joseph Schelling\'s
+philosophy.
 
-One of the most difficult problems in the history of materialistic and dialectical philosophy has always been to determine the overall character and meaning of Friedrich Wilhelm Joseph Schelling's philosophy.
-In this respect, much has been achieved by Marxist Schelling researchers.1 It was clearly shown where the strongest and most forward-looking sides of Schelling's philosophy lie, where today's materialistic dialectic can refer to his dialectical ideas, and it was confirmed that Schelling's place in the history of the development of classic bourgeois German philosophy was "legitimate". Buhr and Irrlitz in their work Der Anspruch der Vernunft, in which the use of thinking in classic bourgeois German philosophy and literature is assessed, state that although Schelling "not only in fact did not develop a self-contained system", although “his basic methodological approach did not come close to that of Hegel,”2 and although he paid for the “transition to objective idealism at the expense of the task of the revolutionary orientation” and “historical-social orientation”3, nevertheless – in his development up to around 1810 – he was an important representative of dialectical philosophy and in his naturphilosophie period also a herald of “dialectical-pantheistic tendencies”4 with its “partial dialectical-materialistic insights of nature”5. At the same time, it is stated that "Schelling was not only an inaugurator of naturphilosophie, rich in dialectical elements, within the movement of classic bourgeois German philosophy, but also a forerunner of the irrationalist epistemologies of the different philosophical directions and currents of the imperialist bourgeoisie".6
-In the Marxist history of philosophy, it was established that the progressiveness of the “young”, or better said: the “nature-philosophizing” Schelling almost reaches the limits of the dialectical-materialistic conception of nature. On the other hand, and rightly so, it was shown that his ultra-conservative “middle” and “late philosophy” even leads to the support of the reactionary religious restoration ideology. In truth, Schelling's philosophy certainly consists of these polarities.7
-Nonetheless, it is precisely these polarities in the development of Schelling’s thought that constantly forces us to ask what their philosophical source is and what is, so to speak, "behind them", what holds them together. If we regard Schelling as one of the greatest figures in classic bourgeois German idealistic philosophy, is it legitimate to raise the question of Schelling's materialism? Or are there only constant "beginnings" and later "remnants" of naturalism and materialism that have no common connecting thoughts at all? Or does the line from the natura naturans Schelling to the "unprethinkable being" [Schelling] always contain some common fundamental materialistic philosophical beliefs, which are continually latent under the surface of this philosophy even in the period of Schelling's deepest theosophy and philosophy of revelation? Does Schelling's philosophy as a whole reveal at all the possibility of a materialistic deciphering or a materialistic Aufhebung? And finally: Does a line of development from Schelling's thoughts lead here to Feuerbach or even to the early writings of Marx and Engels? In other words: Why don't the materialists Marx and Engels build on this disguised “materialistic” line?
-For the time being we are of the opinion that the question of Schelling's naturphilosophie materialism is justified and that at the same time in Schelling's entire philosophy – irrespective of the fact that it leads to developmental problems and that the idea of the objective dialectic of nature as a precondition for the dialectic of active spirit later is completely suppressed – the thought of the indissoluble [unaufhebbaren] objectivity of being and the world, which is a condition of spirit, remains in the background. The unifying line is, of course, not “materialism”, but objective idealism, which is concerned with the absolute and a philosophy as expression of this absolute. Schelling does not build a unified philosophical system; we thereby concur with the idea already expressed by Hegel that Schelling's philosophy in its entirety "is not a scientific whole organized into its members, but rather consists in a few general moments that alone are what remains the same".8
-In his Fichtean and Kantian beginnings, Schelling solved the question of the absolute in the world in favor of the dialectic of the I and not-I and transformed the Fichtean I into the concept of the spirit, which can only be understood in its activity, that is, only “as eternal becoming”. Slightly later, the human spirit is explained to be "self-organizing nature", thus creating the transition to a natural philosophy. One can say that in the naturphilosophie writings from 1797-1800 that the concept of the absolute essence as an objective spirit [God] is completely pushed aside. Schelling sometimes deals brilliantly with the real dialectic of nature.9 The relationship of man to the absolute is not raised as a question of the relationship to God, but raised above all as a question of the relationship of the active human spirit to active objective nature.
-Already in the Ideen zu einer Philosophie der Natur (1797) Schelling formulated a whole series of his important principles of an objectively real and dialectical conception of nature. "The beginning is everywhere and nowhere ..." and the inquiring spirit finds "in the retrogression just as well as in the progression the same infinity of its appearances [Erscheinungen]". "In order to maintain this constant change, nature had to calculate everything in terms of opposites, had to set extremes within which alone the infinite variety of their appearances was possible.”10 In the Ideen the thought is also formulated very clearly that “matter and body are themselves nothing but products of opposing forces, or themselves nothing but these forces”,11 and that – contrary to the claim of "conceptual" idealism – "matter is real outside of us, and matter itself, insofar as it really is outside of us (not merely present in our concepts), has attractive and repulsive forces".12
-In Schelling's work Von der Weltseele (1798), this objectively naturalistic conception, in our opinion, takes on certain features of a pantheistic-vitalistic conception; the deepest causes of the all-pervading “stream of life”, the “world soul”, the “principle of individuation” and the “original duplicity” are not always fully clarified. Here the eternal cycle of life comes into the center of all events. The world is perceived as an eternal organism, "in a constant becoming". The tendency towards natural pantheism still prevails here. Schelling's polemic against chemical physiology is a polemic against mechanical materialism, which assembles the living from dead parts, is a polemic under the aspect of an objective pantheistic dialectic adjusted to nature.13
-In my opinion, this pantheistic-materialistic tendency, based on the understanding of a profound natural dialectic, culminates in the Ersten Entwurf eines Systems der Naturphilosophie (1799) and its Introduction. Here Schelling works out a remarkable dialectic of "product" and "productivity", the conditioned individual being and the unconditional "being itself", which is identified with the unconditional nature as a "productive activity in its unrestricted nature". Nature is thus an eternal dialectic of the object (natura naturata), which as a “self-object” is an expression of a constantly active subject (natura naturans). Spinoza's metaphysics is transformed here into a living dialectic of eternally creative nature, which "must be thought of as being in infinite evolution".14 “It is not that we know nature, but nature is a priori…” Nature as natura naturans “materializes” in every product as an “inhibition point of evolution”, and at the same time, in these individual products, as crystals of development, as "inhibition points", the entire infinite evolution of nature with regard to the past and  future, and thus also the infinity of nature itself, is laid down.15 To some extent, these considerations anticipate the thought of the "objectification [Vergegenständlichung]" of the activity of the social subject and the necessity of revealing this sedimented activity in every "product" of history, a thought which is so brilliantly elaborated in the "phenomenology" of Hegel and which Marx and Engels later utilized in a completely new, methodical, materialistic way in their critical analyzes of the productive activity of social human and their historical products.
-For Schelling, however, this conception is still completely dominated by the enchantment of material nature, which “smiles at man in poetic sensual splendor” (Marx). Schelling did not yet fall for speculations about God and his possibilities in this world. At that time "the bold ship, happily dancing through the waves" of his thought and imagination did not yet "enter the shallow haven of faith", "he tore open the doorways of philosophizing wide, that the fresh breath of nature blew through the spaces of abstract thought, that the warm spring ray fell on the seed of categories and awakened all slumbering forces".16
-Also in the System des transzendentalen Idealismus (1800), where Schelling in a sense returns to the "productive" Fichtean I and deals above all with the question of the unity of subjective and objective, conscious and unconscious, free and necessary activity, the question of a personal theistic god not yet posed and dealt with. On the contrary: the originally naturphilosophie problem of “product” and “producing” is applied to history for the first time, so that this work of Schelling’s is rightly regarded as the first great dialectical system of historical philosophy that even anticipates the Phänomenologie des Geistes of Hegel. From the naturphilosophie period, the problem of objective “reification [Verdinglichung]” remains emphasized here – even in a more pronounced form. “Being (matter) seen as productive is a knowledge that sees knowledge as a product, a being."17 The historical process is understood here as an objectively lawful process of unceasing dialectical encounter and the interpenetration of freedom and the necessity of human action. Schelling profoundly reveals this objective dialectic of history based on the paradigm of play, where the objective reason of history, which arises only through the work of “the whole species [Gattung]” and at the same time through the free action of each individual, ensures objective progress in history. The entire philosophical culmination of the System in the philosophy of art and the work of art represents, according to the latest investigations of the Marxist Schelling researchers, a first significant step in German classical philosophy towards understanding practical social activity. The identity of the subject-object process, i.e. the dialectic of the laws appropriate to the object and the free, subjective formation is sedimented here in the work of art, and art thus becomes the “paradigm of creative production”, the “abbreviation of figurative work”, the “practice in nuce”.18
-Schelling's Darstellung meines Systems der Philosophie philosophy (1801) shifts this problem back to ontological questions, especially to the question of the infinity of being and the identity of its forms, but generally still maintains the line of the pantheistic view of the objective activity of nature; Schelling attempts to philosophically rehabilitate Spinozism and the idea that there is nothing finite in nature. In this attempt to construct an "absolute identity of the real and ideal" matter is seen as "the first relative totality" for the primum existens,19 and in it, as in the first quantitative difference of being, though not in relation to reality but only in relation to possibility, all potencies of the development of being are contained.20 The material universe has no beginning in time, its "separation [Absonderung]" into temporal existence is in principle an individuation and therefore a formation of self-consciousness. The human brain is the culmination of the organic metamorphosis of the whole earth.21
-A turning away from this philosophy and from naturphilosophie, which was thus in many essential points pantheistic-dialectical and even materialistic, and a turning towards a religious theosophical and mystical conception of reality can be observed around 1804; as the editors of his early writings point out, “the absolute is torn off the concrete world”.22 Nature is now subordinated to the highest spiritual principle, God. The problem of objective material, which has so far been viewed as one side and as a differentiation of the developing identity, is reduced to the question of how the developing world and the world of will and moral activity of man can exist concretely and independenly in the relationship between world and God. The whole conception of objective natural activity now remains merely in the problem of an unconditionality of the empirical and incomprehensibly concrete world. 
-This new attitude towards God and the world is shown in full clarity in Schelling's Philosophischen Untersuchungen über das Wesen der menschlichen Freiheit (1809) and then, even further mystically elaborated, in his Weltalter (1811 and 1813). Heidegger in his existential-philosophical interpretation, as is well known, considered Schelling's Freiheitsschrift to be his "greatest achievement" and at the same time "one of the most profound works of German and thus Western philosophy"; he characterizes Schelling's new position as an “ontotheology”.23
-Admittedly, Schelling's concept of pantheism changes radically here: it is no longer the infinitely active and “producing” nature in whose living stream all things are contained. The world-substance is no longer understood as the totality of visible and invisible nature, but means the immanence of all things in God. Pantheism now literally means “pan” and “theism”, everything has its basis [Grund] in the theistic God. Schelling polemizes against Spinoza: “The error of his system lies not at all in the fact that he places things in God, but in the fact that they are things in the abstract concept of worldly essence, yes the infinite substance itself, which is also a thing for him.”24 According to Schelling, only the concept of becoming is appropriate to the nature of things but they cannot "be in God, absolutely considered, toto genere, or more correctly speaking, infinitely different from him." Things are based, according to Schelling, on “whatever in God is not He himself, i.e., that which is the ground of his existence.”25
-Here one can already clearly feel the possibilities of connection for existentialism, as from these terms of "ground", the "becoming existence" of God etc., lead clear lines of connection to Heidegger and other types of existential philosophy. The only thing left of Schelling's philosophical conviction of an active objective natural reality is the idea of the unconditional nature of the material [dinglichen] world. This thought, in our opinion, does not leave him even in times of his deepest mysticism and strictest theosophy. This problem becomes even more apparent in Schelling's Weltalter (1811 and 1813). Here the problem of time is connected with the Christian symbolism of the Trinitarian divine personalities. It would be worth asking what actually hides under these abstract speculations in a veiled form, why the question of becoming existence, the historical ground that belongs to God but not to his essence, why the questions of time, evil, etc., were raised in this epoch of the Napoleonic wars, Napoleon's defeat, the creation of the counter-revolutionary Holy Alliance after the Congress of Vienna, but also the gradual maturing of the new revolution (in France, Italy, Poland).
-Schelling appears here “against the forced concepts of an empty and unenthusiastic [begeisterungslosen] dialectic” (which is obviously directed against Hegel's dialectic).26 In Schelling, the thought always remains alive: “for where there is reality, there is nature, there is attractive force, there is depth and occulusion [Verschlossenheit]”.27 Thus one must also see Schelling's polemic against “idealism”, against his idea of a “human god”, from which “a description for everyone” can be made. Schelling defends the objective existence of a world before God. “Anyone… who denies that there is a principle that is positively opposed to all thinking, actively opposing it, denies reality itself and is rightly called (in the common meaning of the word) idealist.”28 Schelling is aware ofthat such a view can trigger an accusation of "heathen idolatry of nature". He explains that his interpretation avoided the concept of God, for that “primordial essence of integrity [Lauterkeit]” is what is itself “about the godhead and the godhead within him”; "but we don’t dare to call the so-called first reality God”. It is "the eternal seed of God", not yet "a real God, but only a God according to the possibility or the forces", it is the "potential state of God in the aftermath of evolution". "But we didn't dare call the so-called first real" God. It is "the eternal seed of God", not yet "a real God, but only a God of possibility or of forces", it is the "potential state of God in the aftermath of evolution"."But we didn't dare call the so-called first real" God. It is "the eternal seed of God", not yet "a real God, but only a God according to the possibility or the forces", it is the "potential state of God in the wake of evolution".29
-Schelling therefore does not defend “reality in itself” against God, but in the name of defending God, as its opposite [Gegensatz], but at the same time as that from which “divine consciousness” can be explained. The principle of the “unconditioned” therefore remains, but is only a necessary and internally completely presupposed second pole towards God and his evolutionary possibilities and powers [Potenzen]. Here it would be completely out of place to speak of a veiled materialistic line within Schelling, since on the contrary the sole purpose is to defend the existential God.
-The post-war bourgeois philosophy has particularly taken hold of the Schelling's problem of freedom-, Weltalter- and late philosophy (Jaspers, Heidegger, Schröter, Schulz, Fuhrmanns, Tillich, Koktanek, Kasper, Wieland, and others) and speaks of “historical” or “explicative theism”, of the “existential philosophy”, which they like to contrast with the democratic young Hegelian (and with Feuerbach also materialistic) outpouring of German classical philosophy. In recent years there has been a completely different, "renewed" tendency, namely the search for an "existential-philosophical-materialistic component in Schelling's thinking", especially in Schelling's "late" thinking.30 The last variant in particular accuses dialectical and historical materialism – to its alleged detriment – of not having made enough use of the "materialistically" interpretable texts of Schelling's middle and late philosophy for itself. It was Jürgen Habermas years ago who – after completing his Schelling dissertation – tried to prove on the basis of the dialectic of the “contraction of God”, the “unprethinkable” and the criticism of the “topsy-turvy world” that “Schelling, at that materialistic turning point of his historical idealism, had anticipated certain intentions of historical materialism” and that “Marx appropriated Hegel's dialectic in a preconception first explicated by Schelling ”.31 Habermas sees the alleged correspondence between Schelling's “pre-conception” of historical materialism and Marx above all in the fact that the thought of the critique of the "topsy-turvy world" is prepared here, which indeed is a continuation of the dialectic of nature, but whose reversal is a work of humanity. In this way, however, "historical materialism" is severely restricted and twisted - it would, according to this view, merely become a partly materialistically conditioned critique of the "topsy-turvy" world and ideology; it has nothing in common with Marx's concept of historical materialism.
-This line of interpretation of Schelling's late philosophy has recently been continued and considerably expanded; above all, Schelling is juxtaposed with emphatic Hegel and Hegelianism, and this reasoning is not only (as with Habermas) based on transcendental philosophy, on the “Stuttgart seminars” (1810) and on the Weltalter, but also historically and politically on Schelling's Philosophie der Offenbarung (1841/42). Schelling's late philosophy is thus in a sense made into a new hidden line of “materialism” which leads up to Marx, but not to Engels. Thus Manfred Frank tries to show that Feuerbach in his criticism of Hegel uses a number of arguments by Schelling, that both agree in this criticism, but "that also the argumentation with which Marx disregards Feuerbach's naturalism was mapped out in the development of Schelling's 'positive philosophy'"32, and that there are also parallels between Schelling and Marx in the theory of alienation. In this interpretation, however, the alienation of the human being is understood as "the guilt of his destruction of nature which is united in itself and with him”.33 These are violent analogies, and alienation is understood here as the eternal quality of man, that is, something that Marx had fought against from the beginning. Even more violent is the analogy between the inescapable “positivity of the fall that, as an unprethinkable fate, determines the historical act a tergo” and between the Marxist thought that people “in the social production of their lives . . .  enter into necessary relationships that are independent of their will”34, an analogy that leads to the thought that both Schelling and Marx think “the ideological-historical process as a direct reflex of the real ”. In this way, Marx is mystified by Schelling and adapted to a “materialized” religious historical goal.35
-Let us now ask why Engels did not accept this alleged “existential-philosophical-materialistic component” in Schelling's Philosophie der Offenbarung and why he did not make use of it. When, at the turn of the years 1841/42, Engels wrote his polemic Schelling und die Offenbarung against Schelling's philosophy of religion, he was certainly still fascinated and enthusiastic about the magnificence of Hegel's idea, which, by necessity, was striving for freedom. The emerging “self-consciousness of humanity”, “the victory of eternal truth”, “the omnipotence of the idea” – that was for him, as he says semi-ironically in allusion to Schelling, “the true religion of every real philosopher,… the basis of the true positive philosophy, the philosophy of world history ”. He therefore not only defended Hegel against Schelling, but also to a certain extent against Feuerbach's accusation that "he [Hegel] is still deep in the old". “Hegel is the man who opened a new era of consciousness by completing the old one. It is peculiar that he is now being attacked from two sides, by his predecessor Schelling and his youngest successor Feuerbach. ” At the same time, Engels emphasizes that “Feuerbach's criticism of Christianity is a necessary supplement to the speculative doctrine of religion founded by Hegel”.36
-The Schellingian thought of "Prävenirtseyn" (i.e., of the antecedent) of "unprethinkable being", that is, the thought that "a single historical fact is worth more than its [i.e., Hegel's] whole logic, because we are initially dependent on history ”37, is contrasted with Hegel’s “ claim to the universality of logic ”, i.e., his abstract logicism, in some Schelling interpretations. However, this idea is not only played off against Hegel, but also against the then Hegelian Engels. Is there a justification for this in Engels' attitude towards the “unprethinkable being” Schelling? As can be seen from another passage in his Schelling pamphlet, Engels – as a radical democratic young Hegelian who above all was concerned with the progress of consciousness toward freedom – actually criticized Schelling’s thought of the unprethinkable: "The unthinkable being cannot see, want, dismiss, lead back. It is nothing but a bare abstraction from matter, which is the furthest removed from everything personal, self-conscious. It is not possible by any development to bring self-consciousness into this rigid category, unless it is conceived as matter and develops through nature into spirit, like the "boundless being" in the negative, which is distinguished from it only by the void determination of unprethinkability. This unprethinkability can only lead to materialism and at most to pantheism, but never to monotheism.”38 It is clear from these words that at that time Engels had critically seen in Schelling's thought of unprethinkable being certain possibilities of transition to materialism. Yes, possibilities – but in reality such a transition never happened; the late Schelling got stuck in his reactionary theism to the end. Indeed, Engels was able to see that in this “unprethinkable being”, which is identical to the “blind being”, somewhere “the hyle, the eternal matter of earlier philosophy ”39 is hidden. But at the same time he was able to recognize that this "purus actus of existence", "identity of essence and being" of God, the "contrary being" set by God, the “condition of the godhead”40, and thus the material being of the world, which is in eternal connection with God and is inconceivable without God. Under no circumstances could he build on such a “materialism” in Schelling's late philosophy.
-Incidentally, this also results directly from the so-called Paulus Postscript of Schelling's Philosophie der Offenbarung. Here, Schelling is not primarily concerned with “unprethinkable being” itself, but with "the suspension [Aufheblichkeit] of the unprethinkable Being in order to arrive at that which is above Being" – that is, God: "...alive is the God who by his own power approaches from itself, becomes another of itself in its unprethinkable being, different from the being in which it is a se.”41 Schelling himself polemicizes against the possibility of using this thought for a “materialistic pantheism”. For him, “unprethinkable being” is merely a stepping stone to prove the active God in his changing nature and in his “potentia potentiae”. Should one therefore draw the conclusion from Engels' criticism of Schelling's religious positive philosophy that Engels's attitude at that time was idealistic and Hegelian-reactionary and that the hidden and at the same time never realized possibility of a “transition to materialism” from Schelling could be described as progressive? That would be nonsense. The "unprethinkable being" – for Engels that was obviously the "merely factual", developmentally incapable of becoming conscious. At that time, Engels was a Young Hegelian left-wing democrat who used Hegel's dialectical idealism, as he says, in order to transmit “the great upheaval of which the French philosophers of the last century were merely the forerunners” and who “achieved in the realm of thought its completion, its self-creation” and bring “the immense result to the consciousness of the nation and to raise it to Germany’s living principle.”42
-The relationship between Engels and Schelling was diametrically different from that with Feuerbach. Feuerbach's critique of Hegelian philosophy, his critique from the standpoint of anthropological materialism, was directed against the misuse of this philosophy by religion and reactionary politics. Schelling's critique of Hegelian philosophy, his criticism from the standpoint of the existing (even with its possible and unrealized tendency towards materialism) was a critique in the service of religion and the given political conditions. Engels rightly wrote in his Schelling critique: “So the ‘Hegelian gang’ no longer hides the fact that it can and will no longer regard Christianity as its barrier. All the basic principles of Christianity, even what up to now was called religion, have fallen before the inexorable critique of reason; the absolute idea claims to be the founder of a new era.”43 So that was the anti-religious sense of Hegelianism in Engels’ " relentless criticism" of the reality at that time!
-Let's try to answer the questions asked at the beginning in the form of theses:
-1.	With Schelling one can speak of a uniform line of “materialism”. His "sincere youthful thought" of the objectively real (and material) nature, which is identical in itself with the laws of the spirit and which as natura naturans is eternal productivity, is later denied and by the thought of the "world" as "unprethinkable being”, which as “ blind being ”is God’s precondition.
-2.	With Schelling alone, the idea of “unconditional being” continues and (in contrast to Hegel) actually permeates almost his entire philosophy.
-3.	Schelling is and remains the representative of an objective dialectical idealism, in whose natural and transcendental philosophy the dialectic of nature and human activity is brilliantly processed and in which moments and “possibilities” of materialism are present.
-4.	Schelling 's philosophy (apart from his naturphilosophie) could neither become a bridge nor a springboard for scientific dialectical materialism, since it could not even become a prerequisite for a criticism of religion, a prerequisite for that scientific worldview, the goal of which is the real emancipation of the social human.
-5.	Schelling's late philosophy was placed entirely in the service of political reaction and the defense of the religion at the time and therefore could not become an instrument of the new revolutionary worldview. Hegel's philosophical-idealistic legacy, after being critically revised by some of his students after his death, could above all be used methodologically as an instrument of progress and a true critique of religion and German political conditions.
-Not Schelling's late philosophy, but the critically utilized dialectic of German classical philosophy (for which Schelling's dialectic of objective nature and history also provided an important starting point and a significant moment of development), as well as Feuerbach's materialism and critique of religion were important sources of dialectical and historical materialism.
-Notes
+In this respect, much has been achieved by Marxist Schelling
+researchers.^1^ It was clearly shown where the strongest and most
+forward-looking sides of Schelling\'s philosophy lie, where today\'s
+materialistic dialectic can refer to his dialectical ideas, and it was
+confirmed that Schelling\'s place in the history of the development of
+classic bourgeois German philosophy was \"legitimate\". Buhr and Irrlitz
+in their work *Der Anspruch der Vernunft*, in which the use of thinking
+in classic bourgeois German philosophy and literature is assessed, state
+that although Schelling \"not only in fact did not develop a
+self-contained system\", although "his basic methodological approach did
+not come close to that of Hegel,"^2^ and although he paid for the
+"transition to objective idealism at the expense of the task of the
+revolutionary orientation" and "historical-social orientation"^3^,
+nevertheless -- in his development up to around 1810 -- he was an
+important representative of dialectical philosophy and in his
+naturphilosophie period also a herald of "dialectical-pantheistic
+tendencies"^4^ with its "partial dialectical-materialistic insights of
+nature"^5^. At the same time, it is stated that \"Schelling was not only
+an inaugurator of naturphilosophie, rich in dialectical elements, within
+the movement of classic bourgeois German philosophy, but also a
+forerunner of the irrationalist epistemologies of the different
+philosophical directions and currents of the imperialist
+bourgeoisie\".^6^
 
-1. The extensive Schelling research, which developed particularly successfully in the GDR, is widely known in the West. But also in the other socialist countries Schelling became a constant object of philosophical interest. After the important pre-war studies, e.g. by V. F. Asmus, A. Maksimov and others, the more detailed treatises by J. S. Linkov (Dialektika subjekta o objekta v filosofi Sellinga, Leningrad 1973) or by V. V. Lazarev (Selling, Moskva 1976) have recently been published by Soviet philosophy.
+In the Marxist history of philosophy, it was established that the
+progressiveness of the "young", or better said: the
+"nature-philosophizing" Schelling *almost reaches the limits of the
+dialectical-materialistic conception of nature*. On the other hand, and
+rightly so, it was shown that his ultra-conservative "middle" and "late
+philosophy" even leads to the support of the reactionary religious
+restoration ideology. In truth, Schelling\'s philosophy certainly
+consists of these polarities.^7^
 
-2. M. Buhr/G. Irrlitz, Der Anspruch der Vernunft, Bd. I, Berlin 1968, p. 142
+Nonetheless, it is precisely these polarities in the development of
+Schelling's thought that constantly forces us to ask what their
+philosophical source is and what is, so to speak, \"behind them\", what
+holds them together. If we regard Schelling as one of the greatest
+figures in classic bourgeois German *idealistic* philosophy, *is it*
+*legitimate to raise the question of Schelling\'s materialism*? Or are
+there only constant \"beginnings\" and later \"remnants\" of naturalism
+and materialism that have no common connecting thoughts at all? Or does
+the line from the *natura naturans* Schelling to the \"unprethinkable
+being\" \[Schelling\] always contain some common fundamental
+materialistic philosophical beliefs, which are continually latent under
+the surface of this philosophy even in the period of Schelling\'s
+deepest theosophy and philosophy of revelation? Does Schelling\'s
+*philosophy as a whole* reveal at all the possibility of a materialistic
+deciphering or a materialistic Aufhebung? And finally: Does a line of
+development from Schelling\'s thoughts lead here to Feuerbach or even to
+the early writings of Marx and Engels? In other words: *Why don\'t the
+materialists Marx and Engels build on this disguised "materialistic"
+line?*
 
-3. Ibid., p. 144
+For the time being we are of the opinion that the *question of
+Schelling\'s naturphilosophie materialism is justified* and that at the
+same time in Schelling\'s entire philosophy -- irrespective of the fact
+that it leads to developmental problems and that the idea of ​​the
+objective dialectic of nature as a precondition for the dialectic of
+active spirit later is completely suppressed -- the thought *of the
+indissoluble \[unaufhebbaren\] objectivity of being and the world, which
+is a condition of spirit*, remains in the background. The unifying line
+is, of course, not "materialism", but objective idealism, which is
+concerned with the absolute and a philosophy as expression of this
+absolute. Schelling does not build a unified philosophical system; we
+thereby concur with the idea already expressed by Hegel that
+Schelling\'s philosophy in its entirety \"is not a scientific whole
+organized into its members, but rather consists in a few general moments
+that alone are what remains the same\".^8^
 
-4. Ibid., p. 144
+In his *Fichtean and Kantian beginnings*, Schelling solved the question
+of the absolute in the world in favor of the dialectic of the I and
+not-I and transformed the Fichtean I into the concept of the spirit,
+which can only be understood in its activity, that is, only "as eternal
+becoming". Slightly later, the human spirit is explained to be
+\"self-organizing nature\", thus creating the transition to a natural
+philosophy. One can say that in *the naturphilosophie writings from
+1797-1800* that the concept of the absolute essence as an objective
+spirit \[God\] is completely pushed aside. Schelling sometimes deals
+brilliantly with the real dialectic of nature.^9^ The relationship of
+man to the absolute is not raised as a question of the relationship to
+God, but raised above all as a question of the relationship of the
+active human spirit to active objective nature.
 
-5. Ibid., p. 165
+Already in the *Ideen zu einer Philosophie der Natur* (1797) Schelling
+formulated a whole series of his important principles of an objectively
+real and dialectical conception of nature. \"The beginning is everywhere
+and nowhere \...\" and the inquiring spirit finds \"in the retrogression
+just as well as in the progression the same infinity of its appearances
+\[Erscheinungen\]\". \"In order to maintain this constant change, nature
+had to calculate everything in terms of *opposites*, had to set
+*extremes* within which alone the infinite variety of their appearances
+was possible."^10^ In the *Ideen* the thought is also formulated very
+clearly that "matter and body are themselves nothing but products of
+opposing forces, or themselves nothing but these forces",^11^ and that
+-- contrary to the claim of \"conceptual\" idealism -- \"matter is real
+*outside of us*, and matter itself, insofar as it really is outside of
+us (not merely present in our concepts), has attractive and repulsive
+forces\".^12^
 
-6. Ibid., p, 150
+In Schelling\'s work *Von der Weltseele* (1798), this *objectively
+naturalistic* conception, in our opinion, takes on certain features of a
+*pantheistic-vitalistic* conception; the deepest causes of the
+all-pervading "stream of life", the "world soul", the "principle of
+individuation" and the "original duplicity" are not always fully
+clarified. Here the eternal cycle of life comes into the center of all
+events. The world is perceived as an eternal organism, \"in a constant
+becoming\". The tendency towards natural pantheism still prevails here.
+Schelling\'s polemic against chemical physiology is a polemic against
+mechanical materialism, which assembles the living from dead parts, is a
+polemic under the aspect of an objective pantheistic dialectic adjusted
+to nature.^13^
 
-7. While in the previous Marxist Schelling literature an assessment of the naturphilosophie period of F. W. J. Schelling's philosophical development was almost clearly positive, there is no unanimity in the current Western non-Marist philosophical literature. In our opinion, the interesting and stimulating aspect of Schelling's legacy is rather sought in his post-naturphilosophie idealism and does not so much emphasize the question of Schelling as the perfectionist of German dialectical idealism rather than the question of Schelling as the initiator of the new existential philosophical line in German philosophy. But also the evaluation of Schelling's naturphilosophie from the years 1797-1800 is ambivalent. While on the one hand it is considered to be the "low point of a development" on the way "from Kant to Hegel" (see W. Wieland, "Die Anfänge der Philosophie Schellings und die Frage nach der Natur", in: Materialien zu Schellings philosophischen Anfängen, ed. by M. Frank and G. Kurz, Frankfurt/M. 1975, S. 237), on the other hand, with W. Hartkopf (Studien zur Entwicklung der modernen Dialektik, Meisenheim a. G., 1972) this stage of Schelling is of “extraordinary importance for the intellectual history and above all for a critical analysis of the dialectic” (p. 21).
+In my opinion, this pantheistic-materialistic tendency, based on the
+understanding of a profound natural dialectic, culminates in the *Ersten
+Entwurf eines Systems der Naturphilosophie* (1799) and its
+*Introduction*. Here Schelling works out a remarkable dialectic of
+\"product\" and \"productivity\", the conditioned individual being and
+the unconditional \"being itself\", which is identified with the
+unconditional nature as a \"productive activity in its unrestricted
+nature\". Nature is thus an eternal dialectic of the object (*natura
+naturata*), which as a "self-object" is an expression of a constantly
+active subject (*natura naturans*). Spinoza\'s metaphysics is
+transformed here into a living dialectic of eternally creative nature,
+which \"must be thought of as being in infinite evolution\".^14^ "It is
+not that *we know* nature, but nature *is* *a priori*..." Nature as
+*natura naturans* "materializes" in every product as an "inhibition
+point of evolution", and at the same time, in these individual products,
+as crystals of development, as \"inhibition points\", the entire
+infinite evolution of nature with regard to the past and future, and
+thus also the infinity of nature itself, is laid down.^15^ To some
+extent, these considerations anticipate the thought of the
+\"objectification \[Vergegenständlichung\]\" of the activity of the
+social subject and the necessity of revealing this sedimented activity
+in every \"product\" of history, a thought which is so brilliantly
+elaborated in the \"phenomenology\" of Hegel and which Marx and Engels
+later utilized in a completely new, methodical, materialistic way in
+their critical analyzes of the productive activity of social human and
+their historical products.
 
- on the other hand it has been discussed by W. Hartkopf  of this stage of Schelling "an extraordinary importance for the history of ideas and especially for a cryptic analysis of dialectic" (p. 21).
+For Schelling, however, this conception is still completely dominated by
+the enchantment of material nature, which "smiles at man in poetic
+sensual splendor" (Marx). Schelling did not yet fall for speculations
+about God and his possibilities in this world. At that time \"the bold
+ship, happily dancing through the waves\" of his thought and imagination
+did not yet \"enter the shallow haven of faith\", \"he tore open the
+doorways of philosophizing wide, that the fresh breath of nature blew
+through the spaces of abstract thought, that the warm spring ray fell on
+the seed of categories and awakened all slumbering forces\".^16^
 
-8. G. W. F. Hegel, Vorlesungen über die Geschichte der Philosophie, Bd. III, in: Werke in zwanzig Bänden, Bd. 20, Frankfurt/M. 1971, p. 423.
+Also in the *System des transzendentalen Idealismus* (1800), where
+Schelling in a sense returns to the \"productive\" Fichtean I and deals
+above all with the question of the unity of subjective and objective,
+conscious and unconscious, free and necessary activity, the question of
+a personal theistic god not yet posed and dealt with. On the contrary:
+the originally naturphilosophie problem of "product" and "producing" is
+applied to history for the first time, so that this work of Schelling's
+is rightly regarded as the first great dialectical system of historical
+philosophy that even anticipates the *Phänomenologie des Geistes* of
+Hegel. From the naturphilosophie period, the problem of objective
+"reification \[Verdinglichung\]" remains emphasized here -- even in a
+more pronounced form. "Being (matter) seen as productive is a knowledge
+that sees knowledge as a product, a being.\"^17^ The historical process
+is understood here as an objectively lawful process of unceasing
+dialectical encounter and the interpenetration of freedom and the
+necessity of human action. Schelling profoundly reveals this objective
+dialectic of history based on the paradigm of play, where the objective
+reason of history, which arises only through the work of "the whole
+species \[Gattung\]" and at the same time through the free action of
+each individual, ensures objective progress in history. The entire
+philosophical culmination of the *System* in the philosophy of art and
+the work of art represents, according to the latest investigations of
+the Marxist Schelling researchers, a first significant step in German
+classical philosophy towards understanding practical social activity.
+The identity of the subject-object process, i.e. the dialectic of the
+laws appropriate to the object and the free, subjective formation is
+sedimented here in the work of art, and art thus becomes the "paradigm
+of creative production", the "abbreviation of figurative work", the
+"practice *in nuce*".^18^
 
-9. So z. B. F. W. J. Schelling, Ideen zu einer Philosophie der Natur (1797), in: F. W. J. Schelling, Sämmtliche Werke, Stuttgart 1856-61, Bd. II, p. 56.
+Schelling\'s *Darstellung meines Systems der Philosophie* philosophy
+(1801) shifts this problem back to ontological questions, especially to
+the question of the infinity of being and the identity of its forms, but
+generally still maintains the line of the pantheistic view of the
+objective activity of nature; Schelling attempts to philosophically
+rehabilitate Spinozism and the idea that there is nothing finite in
+nature. In this attempt to construct an \"absolute identity of the real
+and ideal\" matter is seen as \"the first relative totality\" for the
+*primum existens*,^19^ and in it, as in the first quantitative
+difference of being, though not in relation to reality but only in
+relation to possibility, all potencies of the development of being are
+contained.^20^ The material universe has no beginning in time, its
+\"separation \[Absonderung\]\" into temporal existence is in principle
+an individuation and therefore a formation of self-consciousness. The
+human brain is the culmination of the organic metamorphosis of the whole
+earth.^21^
 
-10. Ibid., p. 112
+A turning away from this philosophy and from naturphilosophie, which was
+thus in many essential points pantheistic-dialectical and even
+materialistic, and *a turning towards a religious theosophical and
+mystical conception of reality* can be observed around 1804; as the
+editors of his early writings point out, "the absolute is torn off the
+concrete world".^22^ Nature is now subordinated to the highest spiritual
+principle, God. The problem of objective material, which has so far been
+viewed as one side and as a differentiation of the developing identity,
+is reduced to the question of how the developing world and the world of
+will and moral activity of man can exist concretely and independenly in
+the relationship between world and God. The whole conception of
+objective natural activity now remains merely in the problem of an
+unconditionality of the empirical and incomprehensibly concrete world.
 
-11. Ibid., p. 195
+This new attitude towards God and the world is shown in full clarity in
+Schelling\'s *Philosophischen Untersuchungen über das Wesen der
+menschlichen Freiheit* (1809) and then, even further mystically
+elaborated, in his *Weltalter* (1811 and 1813). Heidegger in his
+existential-philosophical interpretation, as is well known, considered
+Schelling\'s Freiheitsschrift to be his \"greatest achievement\" and at
+the same time \"one of the most profound works of German and thus
+Western philosophy\"; he characterizes Schelling\'s new position as an
+"ontotheology".^23^
 
-12. Ibid., p. 216
+Admittedly, Schelling\'s concept of pantheism changes radically here: it
+is no longer the infinitely active and "producing" nature in whose
+living stream all things are contained. The world-substance is no longer
+understood as the totality of visible and invisible nature, but means
+the immanence of all things in God. Pantheism now literally means "pan"
+and "theism", everything has its basis \[Grund\] in the theistic God.
+Schelling polemizes against Spinoza: "The error of his system lies not
+at all in the fact that he places *things* in God, but in the fact that
+they are *things* in the abstract concept of worldly essence, yes the
+infinite substance itself, which is also a thing for him."^24^ According
+to Schelling, only the concept of becoming is appropriate to the nature
+of things but they cannot \"be in God, absolutely considered, *toto
+genere*, or more correctly speaking, infinitely different from him.\"
+Things are based, according to Schelling, on "whatever in God is not *He
+himself*, i.e., that which is the ground of his existence."^25^
 
-13. Schelling polemicizes here especially with the followers of chemical physiology, such as Reil, Wilbrand, Pfaff, Brandis; conversely, the work of the "experimenter and poet", the scientist J. W. Ritter, who identified the biological principle with electrical processes, and especially the famous speech by C. F. Kielmeyer in 1793 on the interrelationships of organic forces had a very strong positive influence on him. Schelling himself considers it in the Weltseele to be the beginning of the "epoch of a completely new natural history", and in the end, even more recent historians of philosophy (Joh. Hoffmeister) point out how this "brilliant speech, inspired by Herder's ideas, whose tripartite division of organic forces is constitutive for German idealism" was important for Schelling. We emphasize all this in order to underline also the positive influence of Schelling's own study of biological and physiological problems and theories, which, on the other hand, also experienced something of the enthusiasm for naturphilosophie at that time on the basis of experimentation and empiricism.
+Here one can already clearly feel the possibilities of connection for
+existentialism, as from these terms of \"ground\", the \"becoming
+existence\" of God etc., lead clear lines of connection to Heidegger and
+other types of existential philosophy. The only thing left of
+Schelling\'s philosophical conviction of an active objective natural
+reality is the idea of ​​the unconditional nature of the material
+\[dinglichen\] world. This thought, in our opinion, does not leave him
+even in times of his deepest mysticism and strictest theosophy. This
+problem becomes even more apparent in Schelling\'s *Weltalter* (1811 and
+1813). Here the problem of time is connected with the Christian
+symbolism of the Trinitarian divine personalities. It would be worth
+asking what actually hides under these abstract speculations in a veiled
+form, why the question of becoming existence, the historical ground that
+belongs to God but not to his essence, why the questions of time, evil,
+etc., were raised in this epoch of the Napoleonic wars, Napoleon\'s
+defeat, the creation of the counter-revolutionary Holy Alliance after
+the Congress of Vienna, but also the gradual maturing of the new
+revolution (in France, Italy, Poland).
 
-14. F. W. J. Schelling, Sämmtliche Werke, Bd. III, p. 278-287
+Schelling appears here "against the forced concepts of an empty and
+unenthusiastic \[begeisterungslosen\] dialectic" (which is obviously
+directed against Hegel\'s dialectic).^26^ In Schelling, the thought
+always remains alive: "for where there is reality, there is nature,
+there is attractive force, there is depth and occulusion
+\[Verschlossenheit\]".^27^ Thus one must also see Schelling\'s polemic
+against "idealism", against his idea of ​​a "human god", from which "a
+description for everyone" can be made. Schelling defends the objective
+existence of a world before God. "Anyone... who denies that there is a
+principle that is positively opposed to all thinking, actively opposing
+it, denies reality itself and is rightly called (in the common meaning
+of the word) idealist."^28^ Schelling is aware ofthat such a view can
+trigger an accusation of \"heathen idolatry of nature\". He explains
+that his interpretation avoided the concept of God, for that "primordial
+essence of integrity \[Lauterkeit\]" is what is itself "about the
+godhead and the godhead within him"; \"but we don't dare to call the
+so-called first reality God". It is \"the eternal seed of God\", not yet
+\"a real God, but only a God according to the possibility or the
+forces\", it is the \"potential state of God in the aftermath of
+evolution\". \"But we didn\'t dare call the so-called first real\" God.
+It is \"the eternal seed of God\", not yet \"a real God, but only a God
+of possibility or of forces\", it is the \"potential state of God in the
+aftermath of evolution\".\"But we didn\'t dare call the so-called first
+real\" God. It is \"the eternal seed of God\", not yet \"a real God, but
+only a God according to the possibility or the forces\", it is the
+\"potential state of God in the wake of evolution\".^29^
 
-15. Ibid., p. 291, 302
+Schelling therefore does *not defend "reality in itself" against God*,
+but *in the name of defending God*, as its opposite \[Gegensatz\], but
+at the same time as that from which "divine consciousness" can be
+explained. The principle of the "unconditioned" therefore remains, but
+is only a necessary and internally completely presupposed second pole
+towards God and his evolutionary possibilities and powers \[Potenzen\].
+Here it would be completely out of place to speak of a veiled
+materialistic line within Schelling, since on the contrary the sole
+purpose is to defend the existential God.
 
-16. F. Engels, “Schelling und die Offenbarung”, in: MEW, Erg.-Bd., 2.
+The post-war bourgeois philosophy has particularly taken hold of the
+Schelling\'s problem of freedom-, Weltalter- and late philosophy
+(Jaspers, Heidegger, Schröter, Schulz, Fuhrmanns, Tillich, Koktanek,
+Kasper, Wieland, and others) and speaks of "historical" or "explicative
+theism", of the "existential philosophy", which they like to contrast
+with the democratic young Hegelian (and with Feuerbach also
+materialistic) outpouring of German classical philosophy. In recent
+years there has been a completely different, \"renewed\" tendency,
+namely the search for an \"existential-philosophical-materialistic
+component in Schelling\'s thinking\", especially in Schelling\'s
+\"late\" thinking.^30^ The last variant in particular accuses
+dialectical and historical materialism -- to its alleged detriment -- of
+not having made enough use of the \"materialistically\" interpretable
+texts of Schelling\'s middle and late philosophy for itself. It was
+Jürgen Habermas years ago who -- after completing his Schelling
+dissertation -- tried to prove on the basis of the dialectic of the
+"contraction of God", the "unprethinkable" and the criticism of the
+"topsy-turvy world" that "Schelling, at that materialistic turning point
+of his historical idealism, had anticipated certain intentions of
+historical materialism" and that "Marx appropriated Hegel\'s dialectic
+in a preconception first explicated by Schelling ".^31^ Habermas sees
+the alleged correspondence between Schelling\'s "pre-conception" of
+historical materialism and Marx above all in the fact that the thought
+of the critique of the \"topsy-turvy world\" is prepared here, which
+indeed is a continuation of the dialectic of nature, but whose reversal
+is a work of humanity. In this way, however, \"historical materialism\"
+is severely restricted and twisted - it would, according to this view,
+merely become a partly materialistically conditioned critique of the
+\"topsy-turvy\" world and ideology; it has nothing in common with
+Marx\'s concept of historical materialism.
+
+This line of interpretation of Schelling\'s late philosophy has recently
+been continued and considerably expanded; above all, Schelling is
+juxtaposed with emphatic Hegel and Hegelianism, and this reasoning is
+not only (as with Habermas) based on transcendental philosophy, on the
+"Stuttgart seminars" (1810) and on the *Weltalter*, but also
+historically and politically on Schelling\'s *Philosophie der
+Offenbarung* (1841/42). Schelling\'s late philosophy is thus in a sense
+made into a new hidden line of "materialism" which leads *up to Marx,
+but not to Engels*. Thus Manfred Frank tries to show that Feuerbach in
+his criticism of Hegel uses a number of arguments by Schelling, that
+both agree in this criticism, but \"that also the argumentation with
+which Marx disregards Feuerbach\'s naturalism was mapped out in the
+development of Schelling\'s \'positive philosophy\'\"^32^, and that
+there are also parallels between Schelling and Marx in the theory of
+alienation. In this interpretation, however, the alienation of the human
+being is understood as \"the guilt of his destruction of nature which is
+united in itself and with him".^33^ These are violent analogies, and
+alienation is understood here as the eternal quality of man, that is,
+something that Marx had fought against from the beginning. Even more
+violent is the analogy between the inescapable "positivity of the fall
+that, as an unprethinkable fate, determines the historical act *a
+tergo*" and between the Marxist thought that people "in the social
+production of their lives . . . enter into necessary relationships that
+are independent of their will"^34^, an analogy that leads to the thought
+that both Schelling and Marx think "the ideological-historical process
+as a direct reflex of the real ". In this way, Marx is mystified by
+Schelling and adapted to a "materialized" religious historical goal.^35^
+
+Let us now ask why Engels did not accept this alleged
+"existential-philosophical-materialistic component" in Schelling\'s
+*Philosophie* *der* *Offenbarung* and why he did not make use of it.
+When, at the turn of the years 1841/42, Engels wrote his polemic
+*Schelling und die Offenbarung* against Schelling\'s philosophy of
+religion, he was certainly still fascinated and enthusiastic about the
+magnificence of Hegel\'s idea, which, by necessity, was striving for
+freedom. The emerging "self-consciousness of humanity", "the victory of
+eternal truth", "the omnipotence of the idea" -- that was for him, as he
+says semi-ironically in allusion to Schelling, "the true religion of
+every real philosopher,... the basis of the true positive philosophy,
+the philosophy of world history ". He therefore not only defended Hegel
+against Schelling, but also to a certain extent against Feuerbach\'s
+accusation that \"he \[Hegel\] is still deep in the old\". "Hegel is the
+man who opened a new era of consciousness by completing the old one. It
+is peculiar that he is now being attacked from two sides, by his
+predecessor Schelling and his youngest successor Feuerbach. " At the
+same time, Engels emphasizes that "Feuerbach\'s criticism of
+Christianity is a necessary supplement to the speculative doctrine of
+religion founded by Hegel".^36^
+
+The Schellingian thought of ​​\"Prävenirtseyn\" (i.e., of the
+antecedent) of \"unprethinkable being\", that is, the thought that \"a
+single historical fact is worth more than its \[i.e., Hegel\'s\] whole
+logic, because we are initially dependent on history "^37^, is
+contrasted with Hegel's " claim to the universality of logic ", i.e.,
+his abstract logicism, in some Schelling interpretations. However, this
+idea is not only played off against Hegel, but also against the then
+Hegelian Engels. Is there a justification for this in Engels\' attitude
+towards the "unprethinkable being" Schelling? As can be seen from
+another passage in his Schelling pamphlet, Engels -- as a radical
+democratic young Hegelian who above all was concerned with the progress
+of consciousness toward freedom -- *actually criticized Schelling's
+thought of the unprethinkable*: \"The unthinkable being cannot see,
+want, dismiss, lead back. It is nothing but a bare abstraction from
+matter, which is the furthest removed from everything personal,
+self-conscious. It is not possible by any development to bring
+self-consciousness into this rigid category, unless it is conceived as
+matter and develops through nature into spirit, like the \"boundless
+being\" in the negative, which is distinguished from it only by the void
+determination of unprethinkability. This unprethinkability can only lead
+to materialism and at most to pantheism, but never to monotheism."^38^
+It is clear from these words that at that time Engels had critically
+seen in Schelling\'s thought of unprethinkable being *certain
+possibilities of transition to materialism*. Yes, possibilities -- but
+in reality such a transition never happened; the late Schelling got
+stuck in his reactionary theism to the end. Indeed, Engels was able to
+see that in this "unprethinkable being", which is identical to the
+"blind being", somewhere "the hyle, the eternal matter of earlier
+philosophy "^39^ is hidden. But at the same time he was able to
+recognize that this \"*purus actus* of existence\", \"identity of
+essence and being\" of God, the \"contrary being\" set by God, the
+"condition of the godhead"^40^, and thus the material being of the
+world, which is in eternal connection with God and is inconceivable
+without God. Under no circumstances could he build on such a
+"materialism" in Schelling\'s late philosophy.
+
+Incidentally, this also results directly from the so-called Paulus
+Postscript of Schelling\'s *Philosophie der Offenbarung*. Here,
+Schelling is not primarily concerned with "unprethinkable being" itself,
+but with \"*the suspension \[Aufheblichkeit\] of the unprethinkable
+Being* in order to arrive at that which is above Being\" -- that is,
+God: \"*\...alive is the God who by his own power approaches from
+itself, becomes another of itself in its unprethinkable being*,
+different from the being in which it is *a se*."^41^ Schelling himself
+polemicizes against the possibility of using this thought for a
+"materialistic pantheism". For him, "unprethinkable being" is merely a
+stepping stone to prove the active God in his changing nature and in his
+"*potentia* *potentiae*". Should one therefore draw the conclusion from
+Engels\' criticism of Schelling\'s religious positive philosophy that
+Engels\'s attitude at that time was idealistic and Hegelian-reactionary
+and that the hidden and at the same time never realized possibility of a
+"transition to materialism" from Schelling could be described as
+progressive? That would be nonsense. The \"unprethinkable being\" -- for
+Engels that was obviously the \"merely factual\", developmentally
+incapable of becoming conscious. At that time, Engels was a Young
+Hegelian *left-wing democrat* who used Hegel\'s dialectical idealism, as
+he says, in order to transmit "the great upheaval of which the French
+philosophers of the last century were merely the forerunners" and who
+"achieved in the realm of thought its completion, its self-creation" and
+bring "the immense result to the consciousness of the nation and to
+raise it to Germany's living principle."^42^
+
+The relationship between Engels and Schelling was diametrically
+different from that with Feuerbach. Feuerbach\'s critique of Hegelian
+philosophy, his critique from the standpoint of anthropological
+materialism, was directed against the misuse of this philosophy by
+religion and reactionary politics. Schelling\'s critique of Hegelian
+philosophy, his criticism from the standpoint of the existing (even with
+its possible and unrealized tendency towards materialism) was a critique
+in the service of religion and the given political conditions. Engels
+rightly wrote in his Schelling critique: "So the 'Hegelian gang' no
+longer hides the fact that it can and will no longer regard Christianity
+as its barrier. All the basic principles of Christianity, even what up
+to now was called religion, have fallen before the inexorable critique
+of reason; the absolute idea claims to be the founder of a new era."^43^
+So that was the anti-religious sense of Hegelianism in Engels' \"
+relentless criticism\" of the reality at that time!
+
+Let\'s try to answer the questions asked at the beginning in the form of
+theses:
+
+1.  With Schelling one can speak of a uniform line of "materialism". His
+    \"sincere youthful thought\" of the objectively real (and material)
+    nature, which is identical in itself with the laws of the spirit and
+    which as *natura naturans* is eternal productivity, is later denied
+    and by the thought of the \"world\" as \"unprethinkable being",
+    which as " blind being "is God's precondition.
+
+2.  With Schelling alone, the idea of ​​"unconditional being" continues
+    and (in contrast to Hegel) actually permeates almost his entire
+    philosophy.
+
+3.  Schelling is and remains the representative of an objective
+    dialectical idealism, in whose natural and transcendental philosophy
+    the dialectic of nature and human activity is brilliantly processed
+    and in which moments and "possibilities" of materialism are present.
+
+4.  Schelling \'s philosophy (apart from his naturphilosophie) could
+    neither become a bridge nor a springboard for scientific dialectical
+    materialism, since it could not even become a prerequisite for a
+    criticism of religion, a prerequisite for that scientific worldview,
+    the goal of which is the real emancipation of the social human.
+
+5.  Schelling\'s late philosophy was placed entirely in the service of
+    political reaction and the defense of the religion at the time and
+    therefore could not become an instrument of the new revolutionary
+    worldview. Hegel\'s philosophical-idealistic legacy, after being
+    critically revised by some of his students after his death, could
+    above all be used methodologically as an instrument of progress and
+    a true critique of religion and German political conditions.
+
+Not Schelling\'s late philosophy, but the critically utilized dialectic
+of German classical philosophy (for which Schelling\'s dialectic of
+objective nature and history also provided an important starting point
+and a significant moment of development), as well as Feuerbach\'s
+materialism and critique of religion were important sources of
+dialectical and historical materialism.
+
+*Notes*
+
+1\. The extensive Schelling research, which developed particularly
+successfully in the GDR, is widely known in the West. But also in the
+other socialist countries Schelling became a constant object of
+philosophical interest. After the important pre-war studies, e.g. by V.
+F. Asmus, A. Maksimov and others, the more detailed treatises by J. S.
+Linkov (*Dialektika subjekta o objekta v filosofi Sellinga*, Leningrad
+1973) or by V. V. Lazarev (*Selling*, Moskva 1976) have recently been
+published by Soviet philosophy.
+
+2\. M. Buhr/G. Irrlitz, *Der Anspruch der Vernunft*, Bd. I, Berlin 1968,
+p. 142
+
+3\. Ibid., p. 144
+
+4\. Ibid., p. 144
+
+5\. Ibid., p. 165
+
+6\. Ibid., p, 150
+
+7\. While in the previous Marxist Schelling literature an assessment of
+the naturphilosophie period of F. W. J. Schelling\'s philosophical
+development was almost clearly positive, there is no unanimity in the
+current Western non-Marist philosophical literature. In our opinion, the
+interesting and stimulating aspect of Schelling\'s legacy is rather
+sought in his post-naturphilosophie idealism and does not so much
+emphasize the question of Schelling as the perfectionist of German
+dialectical idealism rather than the question of Schelling as the
+initiator of the new existential philosophical line in German
+philosophy. But also the evaluation of Schelling\'s naturphilosophie
+from the years 1797-1800 is ambivalent. While on the one hand it is
+considered to be the \"low point of a development\" on the way \"from
+Kant to Hegel\" (see W. Wieland, \"Die Anfänge der Philosophie
+Schellings und die Frage nach der Natur\", in: *Materialien zu
+Schellings philosophischen Anfängen*, ed. by M. Frank and G. Kurz,
+Frankfurt/M. 1975, S. 237), on the other hand, with W. Hartkopf
+(*Studien zur Entwicklung der modernen Dialektik*, Meisenheim a. G.,
+1972) this stage of Schelling is of "extraordinary importance for the
+intellectual history and above all for a critical analysis of the
+dialectic" (p. 21).
+
+on the other hand it has been discussed by W. Hartkopf of this stage of
+Schelling \"an extraordinary importance for the history of ideas and
+especially for a cryptic analysis of dialectic\" (p. 21).
+
+8\. G. W. F. Hegel, *Vorlesungen über die Geschichte der Philosophie*,
+Bd. III, in: *Werke in zwanzig Bänden*, Bd. 20, Frankfurt/M. 1971, p.
+423.
+
+9\. So z. B. F. W. J. Schelling, *Ideen zu einer Philosophie der Natur*
+(1797), in: F. W. J. Schelling, *Sämmtliche* *Werke*, Stuttgart 1856-61,
+Bd. II, p. 56.
+
+10\. Ibid., p. 112
+
+11\. Ibid., p. 195
+
+12\. Ibid., p. 216
+
+13\. Schelling polemicizes here especially with the followers of
+chemical physiology, such as Reil, Wilbrand, Pfaff, Brandis; conversely,
+the work of the \"experimenter and poet\", the scientist J. W. Ritter,
+who identified the biological principle with electrical processes, and
+especially the famous speech by C. F. Kielmeyer in 1793 on the
+interrelationships of organic forces had a very strong positive
+influence on him. Schelling himself considers it in the *Weltseele* to
+be the beginning of the \"epoch of a completely new natural history\",
+and in the end, even more recent historians of philosophy (Joh.
+Hoffmeister) point out how this \"brilliant speech, inspired by
+Herder\'s ideas, whose tripartite division of organic forces is
+constitutive for German idealism\" was important for Schelling. We
+emphasize all this in order to underline also the positive influence of
+Schelling\'s own study of biological and physiological problems and
+theories, which, on the other hand, also experienced something of the
+enthusiasm for naturphilosophie at that time on the basis of
+experimentation and empiricism.
+
+14\. F. W. J. Schelling, *Sämmtliche Werke*, Bd. III, p. 278-287
+
+15\. Ibid., p. 291, 302
+
+16\. F. Engels, "Schelling und die Offenbarung", in: MEW, Erg.-Bd., 2.
+
 Teil, Berlin 1973, p. 218
 
-17. F. W. J. Schelling, Sämmtliche Werke, Bd. III, S. 407
+17\. F. W. J. Schelling, *Sämmtliche Werke*, Bd. III, S. 407
 
-18. Dazu Steffen Dietzsch, “Zeit – Geschichte – Kunst. Zur Struktur von Schellings System des transzendentalen Idealismus”, in: Natur – Kunst – Mythos, Berlin 1978, S. 104, und sein Nachwort zu Schellings System, “Das Kunstwerk als Werkzeug: Schellings Aufhebung des Systems des transzendentalen Idealismus”, Berlin 1979, p. 372
+18\. Dazu Steffen Dietzsch, "Zeit -- Geschichte -- Kunst. Zur Struktur
+von Schellings *System des transzendentalen Idealismus*", in: *Natur --
+Kunst -- Mythos*, Berlin 1978, S. 104, und sein Nachwort zu Schellings
+*System*, "Das Kunstwerk als Werkzeug: Schellings Aufhebung des Systems
+des transzendentalen Idealismus", Berlin 1979, p. 372
 
-19. F. W. J. Schelling, Sämmtliche Werke, Bd. IV, p. 143f.(§ 51)
+19\. F. W. J. Schelling, *Sämmtliche* *Werke*, Bd. IV, p. 143f.(§ 51)
 
-20. Ibid., p. 150 (§ 59)
+20\. Ibid., p. 150 (§ 59)
 
-21. Ibid., p. 167, 210f.(§ 95, 156)
+21\. Ibid., p. 167, 210f.(§ 95, 156)
 
-22. “Because the world has fallen out of the absolute through an addiction to the absolute, the divine, it is void, lacking and devilish. The existence of the world becomes incomprehensible, only empirically interpretable. From here philosophy splits itself up. According to Schelling, all transcendental deductions can now only grasp the how of things, but not the fact of existence, the that. Schelling's few writings, which still appear from 1804 onwards, are essentially concerned with exploring this that of the world. From here, Schelling's great philosophical talent is lost in theosophical and mythological speculations. Even in the dark depths of Schelling's philosophy of revelation, it does sometimes flash up in an arch-dialectical way, yes, the polemical use of existence against panlogism reveals remarkable dialectical structures. . . " (H. Seidel / L. Kleine, "Einleitung" zu Schellings Frühschriften, Berlin 1971, p. LXX). According to M. Sobotka and J. Zeleny, Schelling’s turn from naturphilosophie, “which was materialistic in essential points, to a religious-mystical concept of nature and to a mysticism of the indistinguishability [Nichtunterschiedenheit] of the absolute” can already be seen in the difference between the first edition of the Ideen and the Supplements of the second edition from 1803. M. Sobotka – J. Zeleny, “Vortwort” zu F. W. J. Schelling, Auswahl aus dem Werk, Praha 1977, p. 10. 
+22\. "Because the world has fallen out of the absolute through an
+addiction to the absolute, the divine, it is void, lacking and devilish.
+The *existence* of the world becomes incomprehensible, only empirically
+interpretable. From here philosophy splits itself up. According to
+Schelling, all transcendental deductions can now only grasp the *how* of
+things, but not the fact of existence, the *that*. Schelling\'s few
+writings, which still appear from 1804 onwards, are essentially
+concerned with exploring this that of the world. From here, Schelling\'s
+great philosophical talent is lost in theosophical and mythological
+speculations. Even in the dark depths of Schelling\'s philosophy of
+revelation, it does sometimes flash up in an arch-dialectical way, yes,
+the polemical use of *existence* against panlogism reveals remarkable
+dialectical structures. . . \" (H. Seidel / L. Kleine, \"Einleitung\" zu
+Schellings *Frühschriften*, Berlin 1971, p. LXX). According to M.
+Sobotka and J. Zeleny, Schelling's turn from naturphilosophie, "which
+was materialistic in essential points, to a religious-mystical concept
+of nature and to a mysticism of the indistinguishability
+\[Nichtunterschiedenheit\] of the absolute" can already be seen in the
+difference between the first edition of the *Ideen* and the
+*Supplements* of the second edition from 1803. M. Sobotka -- J. Zeleny,
+"Vortwort" zu F. W. J. Schelling, *Auswahl aus dem Werk*, Praha 1977, p.
+10.
 
-According to M. Buhr and G. Irrlitz "Schelling's philosophical work within the history of the development of classic bourgeois German philosophy is only significant until about 1810". After this time it moves "in mystical lines of thought in which it is difficult to recognize the Schelling of naturphilosophie". (M. Buhr/G. Irrlitz, Abhandlung der Vernunft, Berlin 1968, p. 145).
+According to M. Buhr and G. Irrlitz \"Schelling\'s philosophical work
+within the history of the development of classic bourgeois German
+philosophy is only significant until about 1810\". After this time it
+moves \"in mystical lines of thought in which it is difficult to
+recognize the Schelling of naturphilosophie\". (M. Buhr/G. Irrlitz,
+*Abhandlung der Vernunft*, Berlin 1968, p. 145).
 
-23. M. Heidegger, Schellings Abhandlung Über das Wesen der menschlichen Freiheit, Tübingen 1971, p. 2; 62
+23\. M. Heidegger, *Schellings Abhandlung Über das Wesen der
+menschlichen* Freiheit, Tübingen 1971, p. 2; 62
 
-24. F. W. J. Schelling, Sämmtliche Werke, Bd. VII, p. 349
+24\. F. W. J. Schelling, *Sämmtliche Werke*, Bd. VII, p. 349
 
-25. Ibid., p. 359: Heidegger, too, is forced to admit here how Schelling is constantly struggling with the problem of the objective reality of "the nature of things". According to Heidegger, the following applies to Schelling: "reason" – "nature in God”. And "nature" means metaphysical determination of the beings in general", however, at the same time, also that "which does not actually enter into being itself, but always, on the other hand, remains that which is different". (M. Heidegger, op. cit., p. 134).
+25\. Ibid., p. 359: Heidegger, too, is forced to admit here how
+Schelling is constantly struggling with the problem of the objective
+reality of \"the nature of things\". According to Heidegger, the
+following applies to Schelling: \"reason\" -- \"nature in God". And
+\"nature\" means metaphysical determination of the beings in general\",
+however, at the same time, also that \"which does not actually enter
+into being itself, but always, on the other hand, remains that which is
+different\". (M. Heidegger, op. cit., p. 134).
 
-26. F. W. J. Schelling, “Die Weltalter”, in: Schellings Werke, München 1946, p. 6
+26\. F. W. J. Schelling, "Die Weltalter", in: Schellings *Werke*,
+München 1946, p. 6
 
-27. Ibid., p. 44
+27\. Ibid., p. 44
 
-28. Ibid., p. 51.
+28\. Ibid., p. 51.
 
-29. Ibid., p. 43-44
+29\. Ibid., p. 43-44
 
-30. See Schelling, Philosophie der Offenbarung (1841/42), Frankfurt/M. 1977, therin: M, Frank, “Einleitung des Herausgebers”, p. 35. Nebenbei: This "return" of interest in the late Schelling, but also in Schleiermacher, in both Schlegels, etc., is not wrongly interpreted by some Marxist philosophers as a strengthening of "neo-Romantic historicism" within some modern "life philosophical" tendencies of bourgeois philosophy.
+30\. See Schelling*, Philosophie der Offenbarung* (1841/42),
+Frankfurt/M. 1977, therin: M, Frank, "Einleitung des Herausgebers", p.
+35. Nebenbei: This \"return\" of interest in the late Schelling, but
+also in Schleiermacher, in both Schlegels, etc., is not wrongly
+interpreted by some Marxist philosophers as a strengthening of
+\"neo-Romantic historicism\" within some modern \"life philosophical\"
+tendencies of bourgeois philosophy.
 
-31. J. Habermas, “Dialektischer Idealismus im Übergang zum Materialismus – geschichtsphilosophische Folgerungen aus Schellings Idee einer Contraction Gottes”, in: Theorie und Praxis, Neuwied 1963, p. 152.
+31\. J. Habermas, "Dialektischer Idealismus im Übergang zum
+Materialismus -- geschichtsphilosophische Folgerungen aus Schellings
+Idee einer Contraction Gottes", in: *Theorie und Praxis*, Neuwied 1963,
+p. 152.
 
-32. Manfred Frank, Der unendliche Mangel an Sein, Frankfurt/M. 1975, p. 233
+32\. Manfred Frank*, Der unendliche Mangel an Sein*, Frankfurt/M. 1975,
+p. 233
 
-33. Ibid., p. 251
+33\. Ibid., p. 251
 
-34. Ibid., p. 253-254
-The author of the small Soviet Schelling monograph (V. Lazarey, Moskva 1976, p. 175) rightly states that Schelling's principle of alienation was mystified in his Freiheitsschrift and turned into the "spirit of evil" and the "spirit of separation".
+34\. Ibid., p. 253-254
 
-35. The “positive” role of Schelling's late philosophy in its alleged connection to the beginnings of dialectical and materialistic philosophy is emphasized even more explicitly in Frank's introduction to Schelling's Philosophy of Revelation (Frankfurt / M. 1977). Like this compilation, Frank's monograph certainly contains many valuable historical-philosophical facts and new considerations. Overall, however, its aims are different. Schelling's late religious, theosophical philosophy became not only an inspiration for Feuerbach (and his materialistic examination of Hegel), but also for the other, at that time left or liberal Democrats (such as Cieszkowski, the young Bakunin, the French socialist Leroux, to a certain extent also considered for Ruge). The deep disappointment and distancing of the left-wing Young Hegelians as well as other liberal philosophers from Schelling is not examined by Frank in its ideological-philosophical reasons. In my opinion, he is all the more lacking a clear historical-philosophical and historical-political answer to the question of why and for what reasons the revolutionary democratism of Marx and Engels at the beginning of the 1940s could not be linked to Schelling's late philosophy, but rather to Hegel in a critical way. Characterizing Engels – at a deliberate distance from Marx – simply as the "most faithful paladin of Hegel", who did not appear against Schelling as a "materialistic challenger", and as "conforming" with the “grandfather of rationalist theology, H. E. G. Paulus" (M. Frank, op. cit., p. 19) seems too unhistorical.
+The author of the small Soviet *Schelling* monograph (V. Lazarey, Moskva
+1976, p. 175) rightly states that Schelling\'s principle of alienation
+was mystified in his Freiheitsschrift and turned into the \"spirit of
+evil\" and the \"spirit of separation\".
 
-36. F. Engels, “Schelling und die Offenbarung”, in MEW, Erg.-Bd., 2. Teil, Berlin 1973, p. 219-221.
+35\. The "positive" role of Schelling\'s late philosophy in its alleged
+connection to the beginnings of dialectical and materialistic philosophy
+is emphasized even more explicitly in Frank\'s introduction to
+Schelling\'s *Philosophy of Revelation* (Frankfurt / M. 1977). Like this
+compilation, Frank\'s monograph certainly contains many valuable
+historical-philosophical facts and new considerations. Overall, however,
+its aims are different. Schelling\'s late religious, theosophical
+philosophy became not only an inspiration for Feuerbach (and his
+materialistic examination of Hegel), but also for the other, at that
+time left or liberal Democrats (such as Cieszkowski, the young Bakunin,
+the French socialist Leroux, to a certain extent also considered for
+Ruge). The deep disappointment and distancing of the left-wing Young
+Hegelians as well as other liberal philosophers from Schelling is not
+examined by Frank in its ideological-philosophical reasons. In my
+opinion, he is all the more lacking a clear historical-philosophical and
+historical-political answer to the question of *why and for what
+reasons* the revolutionary democratism of Marx and Engels at the
+beginning of the 1940s could not be linked to Schelling\'s late
+philosophy, but rather to Hegel in a critical way. Characterizing Engels
+-- at a deliberate distance from Marx -- simply as the \"most faithful
+paladin of Hegel\", who did not appear against Schelling as a
+\"materialistic challenger\", and as \"conforming\" with the
+"grandfather of rationalist theology, H. E. G. Paulus\" (M. Frank, op.
+cit., p. 19) seems too unhistorical.
 
-37. F. W. J. Schelling, “Aus den Vorlesungen über Philosophie der Offenbarung” (Frauenstädt – Nachschrift), in: F. W, J. Schelling, Philosophie der Offenbarung (1841/42), hg. von M. Frank, Frankfurt/M. 1977, p. 380.
+36\. F. Engels, "Schelling und die Offenbarung", in MEW, Erg.-Bd., 2.
+Teil, Berlin 1973, p. 219-221.
 
-38. F. Engels, “Schelling und die Offenbarung”, op. cit., p. 202
+37\. F. W. J. Schelling, "Aus den Vorlesungen über Philosophie der
+Offenbarung" (Frauenstädt -- Nachschrift), in: F. W, J. Schelling,
+*Philosophie* *der Offenbarung* (1841/42), hg. von M. Frank,
+Frankfurt/M. 1977, p. 380.
 
-39. Ibid., p. 201
+38\. F. Engels, "Schelling und die Offenbarung", op. cit., p. 202
 
-40. Ibid., p. 204
+39\. Ibid., p. 201
 
-41. F. W. J. Schelling, Philosophie der Offenbarung (1841/42) (Paulus-Nachschrift), op. cit., p. 170-171
+40\. Ibid., p. 204
 
-42. F. Engels, op. cit., p. 177
+41\. F. W. J. Schelling, *Philosophie der Offenbarung* (1841/42)
+(Paulus-Nachschrift), op. cit., p. 170-171
 
-43. Ibid.
+42\. F. Engels, op. cit., p. 177
+
+43\. Ibid.
+
 
 
